@@ -1,6 +1,6 @@
-Name - Aditya Mohan Singh \
+Name - Aditya Mohan Singh 
 
-Section- 4CSE15 \
+Section- 4CSE15 
 
-Roll No. - CS-2341064 \
+Roll No. - CS-2341064 
 
